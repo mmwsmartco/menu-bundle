@@ -19,7 +19,7 @@
             "name": "Simon Lamellière",
             "email": "simon@makemewin.net",
             "homepage": "https://github.com/simonoche/"
-        },
+        }
     ],
     "require": {
         "php": ">=7.2.0",
